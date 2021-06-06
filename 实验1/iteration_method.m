@@ -1,5 +1,5 @@
 function [x,k] = iteration_method(func, x0, e)
-% funcµü´úº¯Êý£¬x0³õÖµ£¬e¾«¶È
+% è¿­ä»£æ³•æ±‚æ ¹ï¼Œkè¿”å›žè¿­ä»£æ¬¡æ•°
 x = x0;
 x0 = x + 2 * e;
 k = 0;
