@@ -13,8 +13,10 @@ run 作为测试使用。
 
 ## 内容
 ### 实验一 方程求根
-二分法
+[二分法](/实验1/bisection_method.m)
 
-迭代法
+[迭代法](/实验1/iteration_method.m)
 
-牛顿迭代法
+[牛顿迭代法](/实验1/newton_method.m)
+
+[测试文件](/实验1/run.m)
